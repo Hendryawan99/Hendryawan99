@@ -1,4 +1,4 @@
-<img src="github_banner2.png" alt="github_banner" width="100%"/>
+<img src="github_banner3.png" alt="github_banner" width="100%"/>
 
 ## Hello I’m, Hendryawan Cipta Mulia👋
 
