@@ -1,3 +1,5 @@
+<img src="github_banner.png" alt="github_banner" width="100%"/>
+
 ## Hello I’m, Hendryawan Cipta Mulia👋
 
 # 💫 About Me:
