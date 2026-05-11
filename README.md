@@ -3,7 +3,10 @@
 ## Hello I’m, Hendryawan Cipta Mulia👋
 
 # 💫 About Me:
-🚀 Aspiring Data Analyst<br>🔍 Passionate about turning raw data into actionable insights<br>📊 Skilled in Excel, SQL, Python, Power BI, Tableau<br>📈 Love exploring data, spotting patterns, & creating impactful visualizations<br>🤝 Excited to connect & contribute to data-driven success stories
+💡 Data Analyst | SQL · Python · Tableau · Power BI · Looker Studio
+<br>📊 Turning 672K+ transactions & 85K+ rows into business decisions
+<br>🔍 I find the story in the data
+<br>🎓 BNSP Certified Data Analyst
 
 
 ## 🌐 Socials:
